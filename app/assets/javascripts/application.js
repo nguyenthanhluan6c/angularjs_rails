@@ -12,6 +12,4 @@
 //
 //= require rails-ujs
 //= require turbolinks
-//= require angularjs
-//= require angular-rails-templates
-//= require_tree ../templates
+//= require_tree .
