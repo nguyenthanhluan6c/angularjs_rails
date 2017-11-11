@@ -29,6 +29,7 @@ default: &default
     - .jpeg
     - .jpg
     - .html
+    - .json
 
 development:
   <<: *default

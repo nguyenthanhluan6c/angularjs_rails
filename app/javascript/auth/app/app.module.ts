@@ -3,7 +3,6 @@ import { NgModule } from '@angular/core';
 import { FormsModule } from '@angular/forms';
 import { HttpModule } from '@angular/http';
 import { AppRoutingModule } from './app-routing.module';
-import "materialize-css";
 import { MaterializeModule } from 'angular2-materialize';
 import { AppComponent } from './app.component';
 import { Angular2TokenService } from 'angular2-token';

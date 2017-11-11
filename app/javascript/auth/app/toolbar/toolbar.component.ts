@@ -3,6 +3,7 @@ import {AuthDialogComponent} from "../auth-dialog/auth-dialog.component";
 import {AuthService} from "../services/auth.service";
 import {Router} from "@angular/router";
 import templateHtml from './toolbar.component.html'
+import './toolbar.component.sass'
 
 @Component({
   selector: 'app-toolbar',

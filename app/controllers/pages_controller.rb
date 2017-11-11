@@ -1,5 +1,5 @@
 class PagesController < ApplicationController
-  layout "angular"
+  layout "angular/application"
   def index
   end
 
